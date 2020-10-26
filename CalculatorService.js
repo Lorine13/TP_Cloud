@@ -3,10 +3,10 @@ var request = require('sync-request');
 
 const PORT = process.env.PORT || 50000;
 
-const SUM_SERVICE_IP_PORT = 'http://localhost:8091';
-const SUB_SERVICE_IP_PORT = 'http://localhost:8092';
-const MUL_SERVICE_IP_PORT = 'http://localhost:8093';
-const DIV_SERVICE_IP_PORT = 'http://localhost:8094';
+const SUM_SERVICE_IP_PORT = 'http://localhost:8101';
+const SUB_SERVICE_IP_PORT = 'http://localhost:8102';
+const MUL_SERVICE_IP_PORT = 'http://localhost:8103';
+const DIV_SERVICE_IP_PORT = 'http://localhost:8104';
 
 
 
